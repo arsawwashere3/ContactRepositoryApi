@@ -1,0 +1,17 @@
+E:\Evolvent\ContactsService\ContactService.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\Evolvent\ContactsService\ContactService.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+E:\Evolvent\ContactsService\ContactService.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+E:\Evolvent\ContactsService\ContactService.Tests\bin\Debug\netcoreapp2.0\ContactService.Tests.deps.json
+E:\Evolvent\ContactsService\ContactService.Tests\bin\Debug\netcoreapp2.0\ContactService.Tests.runtimeconfig.json
+E:\Evolvent\ContactsService\ContactService.Tests\bin\Debug\netcoreapp2.0\ContactService.Tests.runtimeconfig.dev.json
+E:\Evolvent\ContactsService\ContactService.Tests\bin\Debug\netcoreapp2.0\ContactService.Tests.dll
+E:\Evolvent\ContactsService\ContactService.Tests\bin\Debug\netcoreapp2.0\ContactService.Tests.pdb
+E:\Evolvent\ContactsService\ContactService.Tests\obj\Debug\netcoreapp2.0\ContactService.Tests.csprojAssemblyReference.cache
+E:\Evolvent\ContactsService\ContactService.Tests\obj\Debug\netcoreapp2.0\ContactService.Tests.csproj.CoreCompileInputs.cache
+E:\Evolvent\ContactsService\ContactService.Tests\obj\Debug\netcoreapp2.0\ContactService.Tests.AssemblyInfoInputs.cache
+E:\Evolvent\ContactsService\ContactService.Tests\obj\Debug\netcoreapp2.0\ContactService.Tests.AssemblyInfo.cs
+E:\Evolvent\ContactsService\ContactService.Tests\obj\Debug\netcoreapp2.0\ContactService.Tests.dll
+E:\Evolvent\ContactsService\ContactService.Tests\obj\Debug\netcoreapp2.0\ContactService.Tests.pdb
+E:\Evolvent\ContactsService\ContactService.Tests\bin\Debug\netcoreapp2.0\ContactsService.dll
+E:\Evolvent\ContactsService\ContactService.Tests\bin\Debug\netcoreapp2.0\ContactsService.pdb
+E:\Evolvent\ContactsService\ContactService.Tests\obj\Debug\netcoreapp2.0\ContactService.Tests.csproj.CopyComplete
